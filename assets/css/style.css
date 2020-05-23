@@ -16,7 +16,7 @@ header {
 }
 
 header h1 {
-    display: inline-block;
+    display: inline;
     font-size: 48px;
 }
 
@@ -37,7 +37,7 @@ header div ul {
 }
 
 header div ul li {
-    display: inline-block;
+    display: inline;
     margin-left: 25px;
 }
 
