@@ -10,6 +10,6 @@ images displayed on the website contain "alt" attributes that will assist websit
 
 ![this is a screenshot of my website](https://github.com/DWill1440/horiseon-hwk/issues/2#issue-623992641)
 
-![this is the link to my website](https://github.com/DWill1440/horiseon-hwk)
+![this is the link to my repo](https://github.com/DWill1440/horiseon-hwk)
 
-![this is the] link to my repo](https://github.com/DWill1440/horiseon-hwk.git))
+![this is the link to deploy my website]( https://dwill1440.github.io/horiseon-hwk/)
